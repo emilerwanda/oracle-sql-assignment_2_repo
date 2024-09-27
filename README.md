@@ -31,7 +31,7 @@ i created 4 tables named; Authors, Books, Borrowers and Loans respectively as sh
 
    #### Problem statement
 as i were doing all of this i faced challenge of limited knowledge and skills in database management but i tried as best as i can using different resources like; 
-    . geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+    . geeksforgeeks site; (https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
     . youtube channel; https://youtu.be/kbKty5ZVKMY
 
 
