@@ -29,6 +29,11 @@ i created 4 tables named; Authors, Books, Borrowers and Loans respectively as sh
    ![inner_join](https://github.com/user-attachments/assets/ab61601b-4c06-45d6-b481-7f18708f420c)
    ![subquery](https://github.com/user-attachments/assets/c8d66fec-9c89-4cf2-bb42-ca576a623d15)
 
+   #### Problem statement
+as i were doing all of this i faced challenge of limited knowledge and skills in database management but i tried as best as i can using different resources like; 
+    . geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+    . youtube channel; https://youtu.be/kbKty5ZVKMY
+
 
 
 
