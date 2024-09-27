@@ -16,7 +16,8 @@ i created 4 tables named; Authors, Books, Borrowers and Loans respectively as sh
 #### RELATIONSHIP
 
    they have different relationships each other(one-to-one, one-to-many and many-to-many) as shown below;
-      <img width="959" alt="relationship" src="https://github.com/user-attachments/assets/26b17891-6277-450b-ba2c- d6d10eadca2c">
+      <img width="959" alt="relationship" src="https://github.com/user-attachments/assets/93a9d979-e8ee-4c87-b328-7779556d1cb1">
+
       
 #### Querry Commands
 
