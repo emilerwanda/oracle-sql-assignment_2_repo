@@ -1,4 +1,4 @@
-# oracle-sql-assignment_1
+# oracle-sql-assignment_2
 this repo is for assignment 2 
 
 ## <u>LIBRARY MANAGEMENT SYSTEM</u>
