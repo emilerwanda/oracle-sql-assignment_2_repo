@@ -22,11 +22,38 @@ i created 4 tables named; Authors, Books, Borrowers and Loans respectively as sh
 ### <u>Querry Commands</u>
 
    i also executed some query commands to table BOOKS (select, insert, delete, update, joins and subqueries);
+   ```sql
+         Select
+            bookid, title, genre, authorid
+            from books ;
+```
    <img width="959" alt="Selecting" src="https://github.com/user-attachments/assets/aa720a23-091c-4069-b799-fbd5c4d73194">
+  ```sql
+         INSERT INTO BOOKS VALUES ( 
+         '207','WorldNowDays,'teaching','2') ;```
    <img width="959" alt="Inserting" src="https://github.com/user-attachments/assets/ea34b2ac-a939-433a-a0e1-f62e017529c4">
+```sql
+    Update books
+    set title='millioners'
+    where title='billioners' ;```
    <img width="959" alt="update" src="https://github.com/user-attachments/assets/b368e07c-12b7-4af6-93b6-86ab875bd63f">
+   ```sql
+          Delete from books where
+         bookid ='206'
+         AND title='butterfly'
+         AND genre='kids'
+         AND authorid = '4';```
    <img width="908" alt="delete" src="https://github.com/user-attachments/assets/7856c6e5-f312-415e-9a12-3baf251d4792">
+   ```sql
+         Select books.title, books.genre
+         From books
+         INNER JOIN loans ON books.bookid = loans.bookid;```
+   
    ![inner_join](https://github.com/user-attachments/assets/ab61601b-4c06-45d6-b481-7f18708f420c)
+    ```sql
+         Select Borrowerid, BorrowerName
+         From borrowers
+         where Borrowerid IN (Select borrowerid from loans where borrowerid = 306);```
    ![subquery](https://github.com/user-attachments/assets/c8d66fec-9c89-4cf2-bb42-ca576a623d15)
 
    ### <u>Problem statement</u>
