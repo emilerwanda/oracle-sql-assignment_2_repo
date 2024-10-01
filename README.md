@@ -1,5 +1,5 @@
-# oracle-sql-assignment
-this is repo for assignment submission of pl/sql
+# oracle-sql-assignment_1
+this repo is for assignment 2 
 
 ## <u>LIBRARY MANAGEMENT SYSTEM</u>
 
