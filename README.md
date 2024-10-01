@@ -1,11 +1,11 @@
 # oracle-sql-assignment
 this is repo for assignment submission of pl/sql
 
-## LIBRARY MANAGEMENT SYSTEM
+## <u>LIBRARY MANAGEMENT SYSTEM</u>
 
 i designed database system that tracks the activity of the library action, between books, author, borrower and the loans, i used sqldeveloper in default connection of system. 
 
-#### TABLES
+### <u>TABLES</u>
 
 i created 4 tables named; Authors, Books, Borrowers and Loans respectively as shown in below screenshoots.
 ![author](https://github.com/user-attachments/assets/c693201b-8d62-40bc-aa8e-c8ba3c30dd7a)
@@ -13,13 +13,13 @@ i created 4 tables named; Authors, Books, Borrowers and Loans respectively as sh
 ![borrower](https://github.com/user-attachments/assets/de2482c8-2834-4e6f-a9f5-f51f74455af0)
 ![loans](https://github.com/user-attachments/assets/c12602cf-db52-406f-a97a-b6a7f093bac3)
 
-#### RELATIONSHIP
+### <u>RELATIONSHIP</u>
 
    they have different relationships each other(one-to-one, one-to-many and many-to-many) as shown below;
       <img width="959" alt="relationship" src="https://github.com/user-attachments/assets/93a9d979-e8ee-4c87-b328-7779556d1cb1">
 
       
-#### Querry Commands
+### <u>Querry Commands</u>
 
    i also executed some query commands to table BOOKS (select, insert, delete, update, joins and subqueries);
    <img width="959" alt="Selecting" src="https://github.com/user-attachments/assets/aa720a23-091c-4069-b799-fbd5c4d73194">
@@ -29,7 +29,7 @@ i created 4 tables named; Authors, Books, Borrowers and Loans respectively as sh
    ![inner_join](https://github.com/user-attachments/assets/ab61601b-4c06-45d6-b481-7f18708f420c)
    ![subquery](https://github.com/user-attachments/assets/c8d66fec-9c89-4cf2-bb42-ca576a623d15)
 
-   #### Problem statement
+   ### <u>Problem statement</u>
 as i were doing all of this i faced challenge of limited knowledge and skills in database management but i tried as best as i can using different resources like; 
     . geeksforgeeks site; (https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
     . youtube channel; https://youtu.be/kbKty5ZVKMY
