@@ -1,4 +1,4 @@
---------------------------------------------------------
+``` --------------------------------------------------------
 --  File created - Tuesday-September-24-2024   
 --------------------------------------------------------
 DROP TABLE "SYSTEM"."LOANS" cascade constraints;
@@ -20,7 +20,7 @@ DROP TABLE "SYSTEM"."BORROWERS" cascade constraints;
  NOCOMPRESS LOGGING
   STORAGE(INITIAL 65536 NEXT 1048576 MINEXTENTS 1 MAXEXTENTS 2147483645
   PCTINCREASE 0 FREELISTS 1 FREELIST GROUPS 1
-  BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT)
+  BUFFER_POOL DEFAULT FLASH_CACHE DEFAULT CELL_FLASH_CACHE DEFAULT) ```
   TABLESPACE "SYSTEM" ;
 --------------------------------------------------------
 --  DDL for Table AUTHORS
