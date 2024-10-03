@@ -1,5 +1,5 @@
 # oracle-sql-assignment_2
-this repo is for assignment 2 
+this repo is for assignment 2, ISHIMWE EMILE 26160;
 
 ## LIBRARY MANAGEMENT SYSTEM
 
