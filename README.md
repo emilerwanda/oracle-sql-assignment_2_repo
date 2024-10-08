@@ -85,6 +85,7 @@ Insert into LOANS  values (405,201,301,to_date('20-SEP-24','DD-MON-RR'),to_date(
 ## Querry Commands
 
    i also executed some query commands to table BOOKS (select, insert, delete, update, joins and subqueries);
+ 
    ### Select
    ```sql
          Select
@@ -93,6 +94,7 @@ Insert into LOANS  values (405,201,301,to_date('20-SEP-24','DD-MON-RR'),to_date(
 ```
 
    <img width="959" alt="Selecting" src="https://github.com/user-attachments/assets/aa720a23-091c-4069-b799-fbd5c4d73194">
+
  ### Insert
  
    ```sql
@@ -102,6 +104,7 @@ Insert into LOANS  values (405,201,301,to_date('20-SEP-24','DD-MON-RR'),to_date(
 ```
 
 <img width="959" alt="Inserting" src="https://github.com/user-attachments/assets/ea34b2ac-a939-433a-a0e1-f62e017529c4">
+
 ###   Update
 
  ```sql
@@ -132,6 +135,7 @@ Insert into LOANS  values (405,201,301,to_date('20-SEP-24','DD-MON-RR'),to_date(
 ```
    
    ![inner_join](https://github.com/user-attachments/assets/ab61601b-4c06-45d6-b481-7f18708f420c)
+  
    ### Subquery
    ```sql
          Select Borrowerid, BorrowerName
