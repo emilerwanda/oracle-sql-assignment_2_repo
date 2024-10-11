@@ -4,6 +4,7 @@ this repo is for assignment 2, ISHIMWE EMILE 26160;
 ## LIBRARY MANAGEMENT SYSTEM
 
 i designed database system that tracks the activity of the library action, between books, author, borrower and the loans, i used sqldeveloper in default connection of system. 
+i installed 19c version of oracle because it is one which are compatible with my pc
 
 ## TABLES
 
